@@ -17,9 +17,9 @@ img{
 #titleClass{
   text-align: center;
 }
-@media(max-width:600px){
+@media(max-width:800px) and (max-height:600px){
   img{
-    width: auto;
+    width: 19vw;
     height: auto;
   }
 }
